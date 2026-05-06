@@ -72,4 +72,5 @@ I plan to build a system where students can interact with an AI assistant that u
 * Refine proposed solution
 * Explore feasibility
 
-
+#Documentation
+- [Read PDF](./paper1)
